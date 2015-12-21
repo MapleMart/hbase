@@ -9,6 +9,7 @@ import org.apache.hadoop.hbase.client.HTableInterface;
 
 /**
  * HBase加载工具类
+ * 把hbase-0.98.16.1-hadoop2\lib 目录下的jar包全复制到工程里
  * @author 黄永丰
  * @createtime 2015年12月21日
  * @version 1.0

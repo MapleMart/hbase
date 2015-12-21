@@ -26,6 +26,7 @@ import com.hyf.util.HBaseUtil;
 
 /**
  * hbase练习:1、创建表 2、删除表 3、插入一行记录 4、删除一行记录 5、查找一行记录 6、显示所有数据 7、HBase批量处理的方法
+ * 把hbase-0.98.16.1-hadoop2\lib 目录下的jar包全复制到工程里
  * @author 黄永丰
  * @createtime 2015年12月21日
  * @version 1.0
