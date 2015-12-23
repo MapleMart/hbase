@@ -1,4 +1,4 @@
-package com.hyf.util;
+package com.hyf.hbase.util;
 
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.hbase.HBaseConfiguration;

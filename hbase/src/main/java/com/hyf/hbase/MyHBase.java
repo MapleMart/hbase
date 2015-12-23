@@ -22,7 +22,7 @@ import org.apache.hadoop.hbase.client.ResultScanner;
 import org.apache.hadoop.hbase.client.Scan;
 import org.apache.hadoop.hbase.util.Bytes;
 
-import com.hyf.util.HBaseUtil;
+import com.hyf.hbase.util.HBaseUtil;
 
 /**
  * hbase练习:1、创建表 2、删除表 3、插入一行记录 4、删除一行记录 5、查找一行记录 6、显示所有数据 7、HBase批量处理的方法
